@@ -1,0 +1,121 @@
+@media (max-width:790px) {
+    .boxtext1{
+        font-size: 18px;
+        height: 230px;
+        width: 100%;
+        border-radius: 10px 10px 10px 10px ;
+    }
+    .boxtext2{
+        /* font-size: 20px; */
+        height: 230px;
+        width: 100%;
+        border-radius: 10px 10px 10px 10px ;
+    }
+    .boxone{
+        flex-direction: column;
+    }
+    .boxtwo{
+    flex-direction: column;
+    }
+      .rate{
+            justify-content: center;
+            /* display: flex; */
+        }
+        .rate2{
+            justify-content: center;
+        }
+}
+@media (max-width:690px) {
+    .text5{
+        font-size: 17px;
+    }
+    .text4{
+    font-size: 15px;
+    }
+    .text2{
+        font-size: 17px;
+    }
+        .text7{
+             font-size: 15px;
+
+        }
+        .text3{
+         font-size: 15px;
+             font-family: sans-serif;
+        }
+        .text6{
+            font-size: 16px;
+                font-family: sans-serif;
+
+        }
+        .one{
+            font-size: 10px;
+        }
+        .two{
+            font-size: 10px;
+        }
+        .three{
+            font-size: 10px;
+        }
+        .four{
+            font-size: 10px ;
+        }
+        .rate{
+            justify-content: center;
+            /* display: flex; */
+        }
+        .rate2{
+            justify-content: center;
+        }
+    }
+    @media (max-width:564px) {
+        .boxtext1{
+            font-size: 15px;
+        }
+        .content1{
+            padding: 5px;
+        }
+        .content2{
+            padding: 5px;
+        }
+
+
+        
+    }
+    @media (max-width:489px) {
+        .boxtext1{
+            font-size: 11px;
+            width: 100%;
+            height: 200px;
+        }
+        .boxtext2{
+            /* font-size: 12px; */
+            width: 100%;
+            height: 200px;
+        }
+    .boxone{
+        /* height: 35vh; */
+    }
+    .boxtwo{
+        /* height: 35vh; */
+    }
+    .content1{
+        padding: 5px;
+    }
+    .content2{
+        padding: 5px;
+    }
+    .one{
+        /* font-size: 8px; */
+    }
+    .green{
+        /* font-size: 15px; */
+    }
+    .two{
+        /* font-size: 8px; */
+    }
+    .green{
+        /* font-size: 15px; */
+    }
+        
+    }

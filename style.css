@@ -1,0 +1,129 @@
+body{
+    
+    background-color: #efeff1;
+
+}
+.boxone{
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    border-radius: 0px 10px 10px 0px;
+    width: 80%;
+    /* height: 38vh; */
+    margin-bottom: 25px;
+}
+.boxtwo{
+    display: flex;
+    justify-content: center;
+  background-color: white;
+   border-radius: 0px 10px 10px 0px;
+  width: 80%;
+  /* height: 38vh; */
+}
+.rate{
+    display: flex;
+    column-gap: 15px;
+    text-align: center;
+    border-top:  solid #f3f3f3;
+    column-gap: 15px;
+   
+}
+.fullcontent{
+        display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.rate2{
+    display: flex;
+    column-gap: 15px;
+    border-top:  solid #f3f3f3;
+    text-align: center;
+}
+section{
+        display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+  /* background-color: #efeff1 ; */
+    /* height: 98vh; */
+}
+.boxtext1{
+    /* padding: 30px; */
+    background-image: url(img1/pexels-francesco-ungaro-39131973.jpg);
+    background-size: cover;
+    background-position: center;
+    border-radius: 10px 0px 0px 10px;
+        justify-content: center;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    /* height: 30vh; */
+    width: 66%;
+   font-size: 17px;
+   color: white;
+   
+}
+.boxtext2{
+    /* padding: 30px; */
+        justify-content: center;
+    text-align: center;
+    align-items: center;
+    display: flex;
+   background-image: url(img1/pexels-patrick-nizan-115343504-39166195.jpg);
+   background-size: cover;
+    background-position: center;
+    border-radius: 10px 0px 0px 10px;
+    /* height: 30vh; */
+    width: 60%;
+    font-size: 30px;
+    color: white ;
+}
+.content1{
+    padding: 15px;
+}
+.content2{
+    padding: 15px;
+}
+.text2{
+    color: blue;
+}
+.text3{
+        font-family: sans-serif;
+}
+.text4{
+    color: gray ;
+    height: 9vh;
+}.text5{
+    color: blue;
+}
+.text6{
+        font-family: sans-serif;
+}
+.text7{
+    color: gray;
+    height: 9vh;
+}
+.one{
+    font-size: 15px;
+        font-family: sans-serif;
+}
+.two{
+    font-size: 15px;
+        font-family: sans-serif;
+    
+}
+.three{
+    font-size: 15px;
+        font-family: sans-serif;
+}
+.four{
+    font-size: 15px;
+        font-family: sans-serif;
+}
+.green{
+    color: #339053;
+    font-size: 22px;
+}
+.gray{
+    color: gray;
+}
