@@ -49,7 +49,7 @@ section{
 }
 .boxtext1{
     /* padding: 30px; */
-    background-image: url(urlpexels-francesco-ungaro-39131973.jpg);
+    background-image: url(pexels-francesco-ungaro-39131973.jpg);
     background-size: cover;
     background-position: center;
     border-radius: 10px 0px 0px 10px;
@@ -69,7 +69,7 @@ section{
     text-align: center;
     align-items: center;
     display: flex;
-   background-image: url(urlpexels-patrick-nizan-115343504-39166195.jpg);
+   background-image: url(pexels-patrick-nizan-115343504-39166195.jpg);
    background-size: cover;
     background-position: center;
     border-radius: 10px 0px 0px 10px;
